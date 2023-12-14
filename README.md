@@ -1,6 +1,6 @@
 # Infinite Scroll / Lazy loading
 I have developed a compact application that combines the Intersection Observer API with the DummyJSON API to create an effective lazy loading implementation. This project showcases my skills in web development and API integration.
-## [Demo 💥](https://lazyl0ading.netlify.app/)
+## [Demo 💥](https://infinite-scroll-mauve-phi.vercel.app)
 
 ## Technologies
 
